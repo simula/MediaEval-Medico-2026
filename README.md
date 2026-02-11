@@ -1,6 +1,6 @@
 # MediaEval Medico 2026: VQA (with multimodal explanations) for GastroIntestinal Imaging
 
-[**GitHub Repository**](https://github.com/simula/MediaEval-Medico-2026) | [**MediaEval 2026**](https://multimediaeval.github.io/editions/2026/tasks/medico/) | [**Registration Form**](https://forms.gle/y1mNzrC68eGXRsUp9) | [**Leaderboard / Registered Submissions**](TBD)
+[**GitHub Repository**](https://github.com/simula/MediaEval-Medico-2026) | [**MediaEval 2026**](https://multimediaeval.github.io/editions/2026/tasks/medico/) | [**Registration Form**](https://forms.gle/y1mNzrC68eGXRsUp9)
 
 ---
 
