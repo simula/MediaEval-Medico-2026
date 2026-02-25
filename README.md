@@ -153,7 +153,7 @@ Rated by experts on:
 
 > Please do not hesitate to contact us if you encounter any issues.
 
-[View Registered Submissions](TBD)
+[View Registered Submissions](https://simulamet-medico-2026.hf.space)
 
 We use the [`medvqa`](https://pypi.org/project/medvqa/) Python package to **validate and submit** models to the official system.
 ### Install
