@@ -244,8 +244,8 @@ If you encounter any issues with submission, **don’t hesitate to contact us**.
 - **Now** - Registration for task participation is open
 - **February-March 2026** - Development data release
 - **April 2026** - Test data release
-- **Early May 2026** - Runs due
-- **Late May 2026** - Working Notes deadline
+- **1 June 2026** - Runs due
+- **10 June 2026** - Working Notes deadline
 - **15-16 June 2026 (Mon.–Tue.)** - MediaEval Workshop (Amsterdam + Online, co-located with ACM ICMR)
 
 ---
